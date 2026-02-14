@@ -1,0 +1,12 @@
+{
+  "name": "i2c-tools",
+  "version": "0.0.1",
+  "description": "I2Cセンサーを扱うための汎用ツール",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts"
+  ],
+  "public": true
+}
